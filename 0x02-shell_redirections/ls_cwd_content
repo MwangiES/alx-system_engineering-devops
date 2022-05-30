@@ -1,0 +1,17 @@
+total 52
+drwxr-xr-x 2 root root 319 May 30 03:03 .
+drwxr-xr-x 5 root root  91 May 30 01:44 ..
+-rwxr--r-- 1 root root  31 May 30 02:14 0-hello_world
+-rwxr--r-- 1 root root  30 May 30 02:04 1.confused_smiley
+-rwxr--r-- 1 root root  28 May 30 02:23 2-hellofile
+-rwxr--r-- 1 root root  29 May 30 02:16 2-hellofile~
+-rwxr--r-- 1 root root  39 May 30 02:25 3-twofiles
+-rwxr--r-- 1 root root  35 May 30 02:29 4-lastlines
+-rwxr--r-- 1 root root  35 May 30 02:31 5-firstlines
+-rwxr--r-- 1 root root  40 May 30 02:34 6-third_line
+-rwxr--r-- 1 root root  84 May 30 02:59 7-file
+-rwxr--r-- 1 root root  83 May 30 02:58 7-file~
+-rwxr--r-- 1 root root  35 May 30 03:02 8-cwd_state
+-rw-r--r-- 1 root root  12 May 30 02:57 *\"Best School"\*$?*****
+-rw-r--r-- 1 root root  17 May 30 02:43 \*\\'"Holberton School"\'\\*$\?\*\*\*\*:)
+-rw-r--r-- 1 root root   0 May 30 03:03 ls_cwd_content
